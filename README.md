@@ -2,4 +2,4 @@
 
 ポートフォリオのソースです．
 
-[Sweater's Portfolio](https://tatsukiserizawa.github.io)
+[Serizawa's Portfolio](https://tatsukiserizawa.github.io)
